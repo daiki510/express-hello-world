@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      こんにちは from Render！
     </section>
   </body>
 </html>
